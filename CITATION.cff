@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the associated paper as well as this repository.
+authors:
+  - family-names: "Li"
+    given-names: "Wenhua"
+  - family-names: "Zhang"
+    given-names: "Tao"
+  - family-names: "Wang"
+    given-names: "Rui"
+  - family-names: "Ishibuchi"
+    given-names: "Hisao"
+title: "CodeForMMEA-WI"
+version: 1.0.0
+date-released: "2026-10-28"
+repository-code: "https://github.com/Wenhua-Li/CodeForMMEA-WI"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Li"
+      given-names: "Wenhua"
+    - family-names: "Zhang"
+      given-names: "Tao"
+    - family-names: "Wang"
+      given-names: "Rui"
+    - family-names: "Ishibuchi"
+      given-names: "Hisao"
+  title: "Weighted Indicator-Based Evolutionary Algorithm for Multimodal Multiobjective Optimization"
+  journal: "IEEE Transactions on Evolutionary Computation"
+  volume: 25
+  number: 6
+  pages: "1064-1078"
+  year: 2021
+  doi: "10.1109/TEVC.2021.3078441"
